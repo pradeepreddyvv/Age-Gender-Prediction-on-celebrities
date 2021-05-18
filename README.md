@@ -24,6 +24,12 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 #
 ### These are the remaining images after droping corrupted one's(images).
 ![Screenshot 2021-05-18 130019](https://user-images.githubusercontent.com/51847492/118610426-5f531a00-b7d9-11eb-940b-cb7e713e5c3d.jpg)
+#### There are 42252 images were processed and stored after dropping the images which have wrong info in image or data provided for like:
+##### date of birth(month > 12 || days > 31:30:28:29 || year > excisting)
+##### date of picture taken
+##### As this model only predicts age from 0-100 years
+##### if Age > 100 after calculating Age = (date of picture taken - date of birth)
+
 
 ### Now we analysis the faces by tarining the model.
 ### The piple line will look like this

@@ -7,7 +7,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 ### Used only wiki_crop(only faces) images you can get the images dataset from the below link.
 https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 #
-### I had used a facedetection Dlib to crop the faces from wiki_crop images.
+### I had used a face detection Dlib to crop the faces from wiki_crop images.
 #### Available here to dowload - http://dlib.net/files/mmod_human_face_detector.dat.bz2
 #### One can also do this by using some python code(without using dlib)
 ## These are some screenshots to get some idea about the project.

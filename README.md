@@ -15,7 +15,6 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 ![Screenshot 2021-05-18 125856](https://user-images.githubusercontent.com/51847492/118610361-4f3b3a80-b7d9-11eb-9fa9-0f255b5fde23.jpg)
 #
 ![Screenshot 2021-05-18 141337](https://user-images.githubusercontent.com/51847492/118621583-1fddfb00-b7e4-11eb-9e65-b3f6644e3f52.jpg)
-#
 ![Screenshot 2021-05-18 141232](https://user-images.githubusercontent.com/51847492/118621606-266c7280-b7e4-11eb-8fb7-6e0062be86fe.jpg)
 #
 ![Screenshot 2021-05-18 141500](https://user-images.githubusercontent.com/51847492/118621642-2d938080-b7e4-11eb-96cd-6499d7689c5e.jpg)

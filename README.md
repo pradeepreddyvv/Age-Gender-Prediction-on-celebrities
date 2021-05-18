@@ -33,7 +33,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 
 #
 ### Now we analysis the faces by tarining the model.
-### The piple line will look like this
+### The pipeline will look like this
 ![image](https://user-images.githubusercontent.com/51847492/118615458-63ce0180-b7de-11eb-83dc-69d3137460f6.png)
 #
 ### I had used a Age & Gender classifier for Age & Gender prediction.

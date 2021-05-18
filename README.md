@@ -14,6 +14,12 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 ### This is how the face will be detected from "wiki only faces" dataset and we store only these cropped face by detecting the face from wiki_crop image dataset.
 ![Screenshot 2021-05-18 125856](https://user-images.githubusercontent.com/51847492/118610361-4f3b3a80-b7d9-11eb-9fa9-0f255b5fde23.jpg)
 #
+![Screenshot 2021-05-18 141337](https://user-images.githubusercontent.com/51847492/118621583-1fddfb00-b7e4-11eb-9e65-b3f6644e3f52.jpg)
+#
+![Screenshot 2021-05-18 141232](https://user-images.githubusercontent.com/51847492/118621606-266c7280-b7e4-11eb-8fb7-6e0062be86fe.jpg)
+#
+![Screenshot 2021-05-18 141500](https://user-images.githubusercontent.com/51847492/118621642-2d938080-b7e4-11eb-96cd-6499d7689c5e.jpg)
+![Screenshot 2021-05-18 141751](https://user-images.githubusercontent.com/51847492/118621650-308e7100-b7e4-11eb-8065-351aa9233ede.jpg)
 #
 ### These are the remaining images after droping corrupted one's(images).
 ![Screenshot 2021-05-18 130019](https://user-images.githubusercontent.com/51847492/118610426-5f531a00-b7d9-11eb-940b-cb7e713e5c3d.jpg)

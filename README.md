@@ -17,10 +17,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 ![Screenshot 2021-05-18 131312](https://user-images.githubusercontent.com/51847492/118611953-f53b7480-b7da-11eb-9eee-303c411e6c78.jpg)
 #
 ![Screenshot 2021-05-18 131355](https://user-images.githubusercontent.com/51847492/118611973-f9679200-b7da-11eb-9fd4-ea07c0b1c64d.jpg)
-#
-### This is how the images will be splited for tarining and testing
 
-![Screenshot 2021-05-18 125928](https://user-images.githubusercontent.com/51847492/118610394-595d3900-b7d9-11eb-9e34-65c8c973deda.jpg)
 #
 ### These are the remaining images after droping corrupted one's(images).
 ![Screenshot 2021-05-18 130019](https://user-images.githubusercontent.com/51847492/118610426-5f531a00-b7d9-11eb-940b-cb7e713e5c3d.jpg)
@@ -30,6 +27,10 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 ##### date of picture taken
 ##### As this model only predicts age from 0-100 years
 ##### if Age > 100 after calculating Age = (date of picture taken - date of birth)
+#
+### This is how the images will be splited for tarining and testing
+
+![Screenshot 2021-05-18 125928](https://user-images.githubusercontent.com/51847492/118610394-595d3900-b7d9-11eb-9e34-65c8c973deda.jpg)
 
 #
 ### Now we analysis the faces by tarining the model.

@@ -22,5 +22,5 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 
 ![Screenshot 2021-05-18 125928](https://user-images.githubusercontent.com/51847492/118610394-595d3900-b7d9-11eb-9e34-65c8c973deda.jpg)
 #
-## These are the remaining images after droping currupted one's(images).
+## These are the remaining images after droping corrupted one's(images).
 ![Screenshot 2021-05-18 130019](https://user-images.githubusercontent.com/51847492/118610426-5f531a00-b7d9-11eb-940b-cb7e713e5c3d.jpg)

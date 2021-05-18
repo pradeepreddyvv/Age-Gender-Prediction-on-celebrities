@@ -28,13 +28,15 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 ### Now we analysis the faces by tarining the model.
 ### The piple line will look like this
 ![image](https://user-images.githubusercontent.com/51847492/118615458-63ce0180-b7de-11eb-83dc-69d3137460f6.png)
-
+#
 ### I had used a Age & Gender classifier for Age & Gender prediction.
 ### Can train the model from scrach or you can use a pre-trained model .h5 file for prediction.
-### Download from here
-### Face - https://drive.google.com/file/d/1UcdMczPQJen4bcodGG5KyyaRAKe_L6lG/view?usp=sharing
-### Age - https://drive.google.com/file/d/1YCox_4kJ-BYeXq27uUbasu--yz28zUMV/view?usp=sharing
-### Gender - https://drive.google.com/file/d/1wUXRVlbsni2FN9-jkS_f4UTUrm1bRLyk/view?usp=sharing
-### Use thses for whole project
+#
+#### Download from here(the pre-trained models using model_weights)
+##### Face - https://drive.google.com/file/d/1UcdMczPQJen4bcodGG5KyyaRAKe_L6lG/view?usp=sharing
+##### Age - https://drive.google.com/file/d/1YCox_4kJ-BYeXq27uUbasu--yz28zUMV/view?usp=sharing
+##### Gender - https://drive.google.com/file/d/1wUXRVlbsni2FN9-jkS_f4UTUrm1bRLyk/view?usp=sharing
+#
+### Use thses for whole project to predict
 
 

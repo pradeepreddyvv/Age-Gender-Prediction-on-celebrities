@@ -46,6 +46,6 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
 ##### Age - https://drive.google.com/file/d/1YCox_4kJ-BYeXq27uUbasu--yz28zUMV/view?usp=sharing
 ##### Gender - https://drive.google.com/file/d/1wUXRVlbsni2FN9-jkS_f4UTUrm1bRLyk/view?usp=sharing
 #
-### Use thses for whole project to predict
+### Use these for whole project to predict
 
 
